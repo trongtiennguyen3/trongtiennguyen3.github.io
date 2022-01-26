@@ -1,6 +1,6 @@
 var img = document.getElementById("popcat1");
 var count = document.getElementById("score");
-var malaysiaScore = document.getElementById('my_score');
+var vietnamScore = document.getElementById('my_score');
 var score = 0;
 var MyScore = 10000;
 var audio = new Audio('pop.mp3');
